@@ -1,3 +1,3 @@
-seq = "GC"
+seq = "GA"
 
 print(seq*25)
